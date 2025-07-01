@@ -1,0 +1,13 @@
+Overall Accuracy: 0.1467
+
+Class-wise Metrics:
+Class 0:
+  Precision: 0.4479
+  Recall: 0.4095
+  Accuracy: 0.4095
+
+Class 1:
+  Precision: 0.6667
+  Recall: 0.0051
+  Accuracy: 0.0051
+
