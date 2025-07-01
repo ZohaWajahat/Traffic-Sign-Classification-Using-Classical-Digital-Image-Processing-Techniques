@@ -52,14 +52,13 @@ Using if-else logic based on the above features:<br>
 • Interpretable logic used to differentiate visually similar signs (e.g., Yield vs Stop)
 
 # 🧪 Evaluation
-Each prediction is compared against ground truth using:
-• results.csv – filename, ground truth, predicted, correctness
-• metrics.txt – accuracy, precision, recall (overall and per-class)
+Each prediction is compared against ground truth using:<br>
+• results.csv – filename, ground truth, predicted, correctness<br>
+• metrics.txt – accuracy, precision, recall (overall and per-class)<br>
 • confusion_matrix.png – heatmap visualization
 
 # 💡 Key Learning Outcomes
-• Manual implementation of fundamental image processing techniques
-• Understanding HSV segmentation and morphological operations
-• Experience with rule-based classification logic
+• Manual implementation of fundamental image processing techniques<br>
+• Understanding HSV segmentation and morphological operations<br>
+• Experience with rule-based classification logic<br>
 • Evaluation and benchmarking of DIP-based classification pipelines
-
