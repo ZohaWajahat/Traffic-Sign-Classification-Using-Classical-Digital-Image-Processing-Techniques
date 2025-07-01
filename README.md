@@ -5,3 +5,10 @@ A rule-based traffic sign classification system built entirely using classical i
 The goal of this project is to implement a complete end-to-end image analysis pipeline using only classical digital image processing (DIP) techniques. The system classifies cropped traffic sign images using their color, shape, and geometric features, without the use of pretrained models or learning-based methods.
 
 This project revisits foundational computer vision concepts, demonstrating how powerful results can still be achieved using traditional image processing techniques alone.
+
+# 🧠 Core Techniques Used
+This project is divided into a series of DIP-based stages:
+
+## 1. 📥 Image Reading
+Image files are read using cv2.imread() or PIL.Image.open()<br>
+All subsequent processing is done using NumPy only (no OpenCV functions)
