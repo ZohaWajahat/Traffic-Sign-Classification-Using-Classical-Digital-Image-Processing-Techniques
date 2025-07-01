@@ -32,7 +32,7 @@ All filters are implemented from scratch:<br>
 • Hole filling for improved segmentation
 
 ## 4. ✂️ Edge Detection
-• Custom Canny edge detection, including:<br>
+Custom Canny edge detection, including:<br>
 • Gradient calculation using Sobel operator<br>
 • Non-maximum suppression<br>
 • Double thresholding<br>
